@@ -1,0 +1,9 @@
+E:\visual s\Processmonitor1\bin\Debug\sample.txt
+E:\visual s\Processmonitor1\bin\Debug\Processmonitor1.exe.config
+E:\visual s\Processmonitor1\bin\Debug\Processmonitor1.exe
+E:\visual s\Processmonitor1\bin\Debug\Processmonitor1.pdb
+E:\visual s\Processmonitor1\obj\Debug\Processmonitor1.csproj.AssemblyReference.cache
+E:\visual s\Processmonitor1\obj\Debug\Processmonitor1.csproj.SuggestedBindingRedirects.cache
+E:\visual s\Processmonitor1\obj\Debug\Processmonitor1.csproj.CoreCompileInputs.cache
+E:\visual s\Processmonitor1\obj\Debug\Processmonitor1.exe
+E:\visual s\Processmonitor1\obj\Debug\Processmonitor1.pdb
